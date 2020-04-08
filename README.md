@@ -11,6 +11,8 @@ Printer Bed: Heated and Borosilicate Glass enhancement
 
 Filament: eSun PLA+ (Tough PLA) https://shop3d.ca/products/esun-3d-printing-pla-1-75mm
 
+Model (Left Hand): https://drive.google.com/file/d/1HODXAGyJy0au1Y6FAYdq2Jl0JDgGoaje/view
+
 Model size: 135%
 
 Layer Height: 0.20mm
