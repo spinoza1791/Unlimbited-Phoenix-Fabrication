@@ -3,29 +3,28 @@ By Andrew Craton - 08APR2020
 
 Purpose: Evidence of 3D printed parts for Unlimbited Phoenix Fabricator badge submission to e-NABLE.
 
-Specs used to create all parts of the Unlimbited Phoenix - Left Hand
---------------------------------------------------------------------
+Specs used to create all parts of the Unlimbited Phoenix
+--------------------------------------------------------
 Printer Used: FlashForge Creator Pro
+Printer Bed: Heated and Borosilicate Glass enhancement
 
 Filament: eSun PLA+ (Tough PLA) https://shop3d.ca/products/esun-3d-printing-pla-1-75mm
+
+Model size: 135%
 
 Layer Height: 0.20mm
 
 Infill: 35%
 
-Top Layers: 3
+Top/Btm Layers: 3
 
-Bottom Layers: 3
+Supports/Post-Processing: None Used
 
-Support: None Used
-
-Post-Processing: None Used
-
-Print Speed: 60mm sec
+Print Speed: 60mm/s
 
 Print Temps: 210c for layer 1, thereafter 205c
 
-Base Temp: 60c
+Base Temp (Borosilicate Glass with Thermal Adhesive): 60c
 
 
 
