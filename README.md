@@ -6,6 +6,7 @@ Purpose: Evidence of 3D printed parts for Unlimbited Phoenix Fabricator badge su
 Specs used to create all parts of the Unlimbited Phoenix
 --------------------------------------------------------
 Printer Used: FlashForge Creator Pro
+
 Printer Bed: Heated and Borosilicate Glass enhancement
 
 Filament: eSun PLA+ (Tough PLA) https://shop3d.ca/products/esun-3d-printing-pla-1-75mm
