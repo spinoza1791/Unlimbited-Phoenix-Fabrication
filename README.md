@@ -1,5 +1,5 @@
 # Unlimbited-Phoenix-Fabrication
-By Andrew Craton - 08APR2020
+By Andrew Craton - 08 APR 2020
 
 Purpose: Evidence of 3D printed parts for Unlimbited Phoenix Fabricator badge submission to e-NABLE.
 
